@@ -27,7 +27,7 @@ https://github.com/Cool69Breeze/ADTask3/tree/main/Task1
 https://github.com/Cool69Breeze/ADTask3/tree/main/Task2
 
 ## Выводы
-
+Попрактиковался в регулировании баланса сложности игры
 
 ## Powered by
 
