@@ -16,3 +16,5 @@ maxTimeBetweenEggDrops = 1,5f;
 
 думаю, что будет правильным, адаптировать шанс смены направления под скорость передвижение дракона.
 промежуток для chanceDirection (0,05f; 0,15f)
+
+https://docs.google.com/spreadsheets/d/1PzYfu3DNZ9qm9BHyqgUWswhMA-rAMSibxPmpuZBQ3Kc/edit#gid=0
