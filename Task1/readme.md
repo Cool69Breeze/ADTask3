@@ -9,8 +9,8 @@ timeBetweenEggDrops
 и для интереса добавим переменную таймер - задержка с которой меняется поведение дракона(ускорение передвижения и сброса яиц),
 таким образом сложность будет зависить от непредсказуемости смещения дракона.
 ## для этого нужно также учесть границы минимума и максимума переменных speed и timeBetweenEggDrops
-minSpeed = 0,8f;
-maxSpeed = 10f;
+minSpeed = 2f;
+maxSpeed = 15f;
 minTimeBetweenEggDrops = 0,2f;
 maxTimeBetweenEggDrops = 1,5f;
 
