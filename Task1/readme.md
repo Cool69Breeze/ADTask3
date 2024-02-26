@@ -11,7 +11,7 @@ timeBetweenEggDrops
 ## для этого нужно также учесть границы минимума и максимума переменных speed и timeBetweenEggDrops
 minSpeed = 2f;
 maxSpeed = 15f;
-minTimeBetweenEggDrops = 0,2f;
+minTimeBetweenEggDrops = 0,4f;
 maxTimeBetweenEggDrops = 1,5f;
 
 думаю, что будет правильным, адаптировать шанс смены направления под скорость передвижение дракона.
